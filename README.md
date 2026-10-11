@@ -1,2 +1,2 @@
 # Power-BI-Badges
-The badges I have earned through many lessons of Microsoft Power BI through the course of three months.
+This repository showcases the Microsoft Power BI learning badges I earned through Microsoft Learn while completing Power BI lessons and developing my foundational Power BI skills over three months.
